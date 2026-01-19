@@ -36,7 +36,7 @@
 ## Install & Upgrade to Latest Version
 
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/lvvfa/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/lvvfa/xui/master/install.sh)
 ```
 
 ## Install Legacy Version
